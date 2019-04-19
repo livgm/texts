@@ -4,3 +4,4 @@
 ```sql
 SELECT birthday FROM users WHERE username = %{user.name} AND password=%{user.password};
 ```
+:tada:
