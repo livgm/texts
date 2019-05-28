@@ -1,6 +1,6 @@
-# Facial recognition and racial bias
+# Artificial intelligence and racial bias
 
-The topic of Artificial Intelligence and Facial Recognition is slowly but surely being integrated in all parts of our daily lives - whether it be using Snapchat filters, logging in on an iPhone or the police using facial recognition techniques to identify criminals. All of this seems incredibly handy, but it does not work for everyone. Facial recognition techniques are significantly less likely to correctly identify a Black woman than to identify a white woman. This blog post seeks to explain what the problem is, the reasons behind it and suggest ways to improve this.
+The topic of Artificial Intelligence and Facial Recognition is slowly but surely being integrated in all parts of our daily lives - whether it be using Snapchat filters, logging in on an iPhone or the police using facial recognition techniques to identify criminals. All of this seems incredibly handy, but it does not work for everyone. Facial recognition techniques are, for example, significantly less likely to correctly identify a Black woman than to correctly identify a white woman. This blog post seeks to give a brief overview of the problem, explain the technical background and give an explanation on why these bias exist.
 
 ## The problem
 
@@ -36,9 +36,12 @@ ProPublica started an investigation into the software used in courtrooms to pred
 "</br>
 <sub>Source: [ProPublica](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) </sub>
 
-It did not only wrongly label black people as being at higher risk for committing a crime, but also labelled white people with a history of criminality as being less likely to commit another crime than a first-time Black offender. As the topic of mass incarceration in the US is still relevant, this is an important fact to consider.  
+It did not only wrongly label black people as being at higher risk for committing a crime, but also labelled white people with a history of criminality as being less likely to commit another crime than a first-time Black offender. This also relates to the topic of mass incarceration in the United States.
 
-After the
+After the shootings on Easter Sunday in Sri Lanka in 2019, Amara Majeed, a student at Brown University and Muslim activist, [was wrongly flagged as a suspect](https://www.wired.com/story/facial-recognition-regulation/) in the attacks and she was included in a "Wanted"-List of the Sri Lankan government.
+
+All of these examples show how PoC and especially Black women are disproportionally affected by the flaws found in Artificial Intelligence.
+
 ## Background information
 
 Facial recognition is a subset of Machine Learning, a branch of Artificial Intelligence. It seeks to detect people's faces, pull information from the expression, depict pictures on to it or store it to use it to later verify people.
@@ -52,4 +55,9 @@ https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white
 
 ## Explanation
 
-Artifical Intelligence by itself has no moral compass, values or bias. It simply inherits and amplifies our own bias.
+Artificial Intelligence by itself has no moral compass, values or bias. It simply inherits and amplifies our own bias as it learns from the datasets we create and choose. The problem is the fact that due to the lack of diversity in tech, the datasets that are available and that are chosen, are largely homogenous which makes them skewed. The people choosing the datasets are likely white men and less aware of the lack of diversity within them. This calls for people of different genders, skin colours and heritages working together to uncover these bias. </br>
+But without proper representation in the spaces where these models are being developed, the affected communities have a smaller chance of finding out they are being discriminated against and are therefore less likely to take action against the big actors. After all, the results given to them are all these communities know. How would a predominantly Black community know that there is a higher police presence due to AI determining that this community is more likely to have high crime rates? </br>
+One aspect to consider is that often the software used to classify these things is proprietary software and it is difficult to assess where these bias come from.
+
+## Outlook
+ It is not too late to take action against the racist and sexist bias in Artificial Intelligence but it is important that this extremely relevant topic gets the attention it deserves. There are many people working on creating balanced datasets, including [Joy Buolamwini](https://www.poetofcode.com/) and many more are working to uncover the hidden bias in Machine Learning. One of the problems of AI is that it is being perceived as something that works by itself, without human directions and is almost like magic. This leads to people thinking that the people behind these algorithms do not matter much or do not have a big influence on the outcome and these people are then, in turn, not questioned and supervised enough and the need for diversity might not become apparent. Bias in Artificial Intelligence probably will never be eradicated but through inclusion and diversity in the spaces this is created, these bias can be detected and better actions can be chosen.
