@@ -51,7 +51,7 @@ This behaviour mimics the learning process of a human- we learn by recognizing p
 The dataset that is chosen for training is crucial to the success of the Machine Learning algorithm, as it has to closely mimic the actual test dataset. If all you had ever seen in your life was a car, you certainly could not identify a tree as a tree. This is why it is important to "expose" the model to a dataset that reflects the real world application.
 
 The main demographic in Computer Science is white men, as shown in the [StackOverflow Developer's Survey](https://insights.stackoverflow.com/survey/2019/#demographics). StackOverflow is a heavily used platform for programmers all over the planet to ask questions about programming. According to their survey conducted in 2019, almost 71% of their respondents were white and 90% of all respondents were men. This gender and race disparity has existed in Computer Science for a long time. The first "computers" were women of color computing  complex equations for NASA and similar institutions but since then the primary demographics in the start-up scene and today's Computer Science world has shifted.
-https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html
+
 
 ## Explanation
 
@@ -61,3 +61,6 @@ One aspect to consider is that often the software used to classify these things 
 
 ## Outlook
  It is not too late to take action against the racist and sexist bias in Artificial Intelligence but it is important that this extremely relevant topic gets the attention it deserves. There are many people working on creating balanced datasets, including [Joy Buolamwini](https://www.poetofcode.com/) and many more are working to uncover the hidden bias in Machine Learning. One of the problems of AI is that it is being perceived as something that works by itself, without human directions and is almost like magic. This leads to people thinking that the people behind these algorithms do not matter much or do not have a big influence on the outcome and these people are then, in turn, not questioned and supervised enough and the need for diversity might not become apparent. Bias in Artificial Intelligence probably will never be eradicated but through inclusion and diversity in the spaces this is created, these bias can be detected and better actions can be chosen.
+
+<sub> <b> Sources: </b>https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html
+ </sub>
